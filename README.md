@@ -78,7 +78,7 @@
 
 ---
 
-##Findings
+### Findings
 **Overall Business Performance**
 The business is performing strongly with total sales of 56.25 million and a profit of 
 54.39 million, giving an impressive profit margin of nearly 97%. Cumulative sales came 
